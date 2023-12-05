@@ -1,0 +1,15 @@
+C:\Users\rafael.cruz\Documents\source\fundamentos-csharp\SistemaAcademico\SistemaAcademico\bin\Debug\net7.0\SistemaAcademico.exe
+C:\Users\rafael.cruz\Documents\source\fundamentos-csharp\SistemaAcademico\SistemaAcademico\bin\Debug\net7.0\SistemaAcademico.deps.json
+C:\Users\rafael.cruz\Documents\source\fundamentos-csharp\SistemaAcademico\SistemaAcademico\bin\Debug\net7.0\SistemaAcademico.runtimeconfig.json
+C:\Users\rafael.cruz\Documents\source\fundamentos-csharp\SistemaAcademico\SistemaAcademico\bin\Debug\net7.0\SistemaAcademico.dll
+C:\Users\rafael.cruz\Documents\source\fundamentos-csharp\SistemaAcademico\SistemaAcademico\bin\Debug\net7.0\SistemaAcademico.pdb
+C:\Users\rafael.cruz\Documents\source\fundamentos-csharp\SistemaAcademico\SistemaAcademico\obj\Debug\net7.0\SistemaAcademico.csproj.AssemblyReference.cache
+C:\Users\rafael.cruz\Documents\source\fundamentos-csharp\SistemaAcademico\SistemaAcademico\obj\Debug\net7.0\SistemaAcademico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.cruz\Documents\source\fundamentos-csharp\SistemaAcademico\SistemaAcademico\obj\Debug\net7.0\SistemaAcademico.AssemblyInfoInputs.cache
+C:\Users\rafael.cruz\Documents\source\fundamentos-csharp\SistemaAcademico\SistemaAcademico\obj\Debug\net7.0\SistemaAcademico.AssemblyInfo.cs
+C:\Users\rafael.cruz\Documents\source\fundamentos-csharp\SistemaAcademico\SistemaAcademico\obj\Debug\net7.0\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\rafael.cruz\Documents\source\fundamentos-csharp\SistemaAcademico\SistemaAcademico\obj\Debug\net7.0\SistemaAcademico.dll
+C:\Users\rafael.cruz\Documents\source\fundamentos-csharp\SistemaAcademico\SistemaAcademico\obj\Debug\net7.0\refint\SistemaAcademico.dll
+C:\Users\rafael.cruz\Documents\source\fundamentos-csharp\SistemaAcademico\SistemaAcademico\obj\Debug\net7.0\SistemaAcademico.pdb
+C:\Users\rafael.cruz\Documents\source\fundamentos-csharp\SistemaAcademico\SistemaAcademico\obj\Debug\net7.0\SistemaAcademico.genruntimeconfig.cache
+C:\Users\rafael.cruz\Documents\source\fundamentos-csharp\SistemaAcademico\SistemaAcademico\obj\Debug\net7.0\ref\SistemaAcademico.dll
